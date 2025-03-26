@@ -11,3 +11,7 @@ S
 #contracts/maintenance-protocol.clar,c/5/c5145bcbae236c2e669ac13a8a59c8e315ff9d0a
 R
 "tests/maintenance-protocol.test.ts,9/e/9eb65a8329bce48ea20168cb6fc7621bfbed3fd6
+N
+contracts/plant-inventory.clar,8/8/883d7d262b490b86624eef6bac385c2bdeaeaa1a
+M
+tests/plant-inventory.test.ts,2/9/29684372d8a76a93712ae8aeea40fd1721e233ce
