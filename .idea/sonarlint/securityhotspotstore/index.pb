@@ -15,3 +15,5 @@ N
 contracts/plant-inventory.clar,8/8/883d7d262b490b86624eef6bac385c2bdeaeaa1a
 M
 tests/plant-inventory.test.ts,2/9/29684372d8a76a93712ae8aeea40fd1721e233ce
+P
+ contracts/site-registration.clar,c/2/c2ddcc3eeef950abe8781b6280676fe56d5184a5
