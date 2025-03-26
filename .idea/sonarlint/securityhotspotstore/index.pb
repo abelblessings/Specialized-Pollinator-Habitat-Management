@@ -7,3 +7,7 @@ P
  contracts/impact-assessment.clar,9/9/998860548e8bac75d5da3fa14360b52f601db1ac
 O
 tests/impact-assessment.test.ts,9/b/9b7a0d70ee851a0974d708edf250c87d3df3583e
+S
+#contracts/maintenance-protocol.clar,c/5/c5145bcbae236c2e669ac13a8a59c8e315ff9d0a
+R
+"tests/maintenance-protocol.test.ts,9/e/9eb65a8329bce48ea20168cb6fc7621bfbed3fd6
